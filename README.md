@@ -1,5 +1,5 @@
 # LaporanWorkshop
-Laporan Kerja Workshop,Mechanic dan Laporan Kerusakan Perusahaan PPI Area Workshop
+Laporan Kerja Mechanic dan pembuatan LKA ( Laporan Kerusakan Alat ) Driver dan Pengajuan Barang FPB ( Form Permintaan Barang )
 tutorial menggunakan kode
 1. buat kode form nya
 2. buat spreadsheet
