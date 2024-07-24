@@ -1,0 +1,45 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #fff;
+}
+
+.custom-heading {
+    color: #000000;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 3px;
+    text-decoration: underline;
+}
+
+.col {
+    color: #000000;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+}
+
+.mb-3 {
+    color: #000000;
+    text-decoration: bold;
+}
+
+#about {
+    background-color: #EE4D2D;
+}
+
+#projects {
+    background-color: #fff;
+}
+
+#contact {
+    background-color: #EE4D2D;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+footer {
+    background-color: #EE4D2D;
+    margin-top: -1.5px;
+}

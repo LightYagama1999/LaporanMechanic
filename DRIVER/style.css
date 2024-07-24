@@ -1,0 +1,53 @@
+.jumbotron {
+    padding-top: 212px;
+    padding-bottom: 212px;
+    margin-bottom: -180px;
+    background-image: url(img/background-web-pengisian.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.custom-heading {
+    color: red;
+    font-family: 'Kalam', cursive;
+    margin-top: 3px;
+}
+
+.mb-3 {
+    font-style: bold;
+    font-weight: 400;
+    color: #fff;
+}
+#about {
+    background-color: red;
+}
+
+#projects {
+    background-color: #fff;
+}
+
+#contact {
+    background-color: red;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+footer {
+    background-color: white;
+    margin-top: -1px;
+}
+
+h5,h2 {
+    color: #fff;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.peler {
+    margin-left: 10px;
+}
